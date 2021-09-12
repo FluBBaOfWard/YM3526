@@ -1,0 +1,6 @@
+YM3526 revision history
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+V0.0.0 - 2021-04-06 (FluBBa)
+	Started coding.

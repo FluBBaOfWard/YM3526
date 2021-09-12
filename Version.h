@@ -1,0 +1,1 @@
+#define ARMYM3526VERSION "V0.0.0"
